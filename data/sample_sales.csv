@@ -1,0 +1,1001 @@
+Date,Product,Category,Units Sold,Revenue,Customer_ID,Customer_Segment
+2024-01-16,Product C,Home & Kitchen,15,1110,C719,VIP
+2024-01-22,Product D,Home & Kitchen,14,518,C494,VIP
+2024-02-13,Product D,Beauty,1,12,C435,VIP
+2024-03-01,Product A,Home & Kitchen,10,240,C111,New
+2024-01-25,Product B,Beauty,10,840,C235,New
+2024-03-19,Product B,Electronics,8,328,C407,New
+2024-03-04,Product C,Electronics,12,1116,C706,Returning
+2024-03-04,Product A,Beauty,1,35,C935,VIP
+2024-01-21,Product C,Clothing,2,200,C612,Returning
+2024-02-14,Product C,Beauty,3,297,C803,New
+2024-01-04,Product C,Home & Kitchen,18,270,C251,Returning
+2024-03-10,Product B,Beauty,9,549,C242,Returning
+2024-02-18,Product C,Electronics,4,84,C442,New
+2024-01-31,Product A,Electronics,7,350,C188,New
+2024-03-10,Product B,Beauty,11,924,C612,New
+2024-03-25,Product D,Beauty,5,240,C209,Returning
+2024-01-25,Product D,Beauty,16,496,C151,VIP
+2024-03-22,Product C,Clothing,4,148,C106,New
+2024-01-14,Product D,Beauty,2,176,C808,VIP
+2024-03-29,Product C,Clothing,14,476,C166,Returning
+2024-01-21,Product C,Beauty,20,1540,C457,Returning
+2024-03-18,Product B,Electronics,16,864,C312,Returning
+2024-01-27,Product A,Clothing,5,445,C500,Returning
+2024-02-29,Product A,Beauty,9,513,C720,Returning
+2024-02-13,Product D,Beauty,19,1653,C811,New
+2024-02-04,Product D,Beauty,15,660,C244,New
+2024-02-28,Product C,Clothing,2,32,C417,New
+2024-01-05,Product B,Clothing,8,648,C440,VIP
+2024-01-14,Product C,Electronics,11,979,C109,Returning
+2024-01-18,Product C,Beauty,11,297,C675,New
+2024-01-23,Product A,Clothing,9,153,C588,New
+2024-03-22,Product A,Electronics,20,2000,C597,New
+2024-03-22,Product C,Home & Kitchen,7,686,C557,VIP
+2024-01-10,Product C,Home & Kitchen,10,570,C882,Returning
+2024-01-19,Product A,Electronics,3,108,C424,VIP
+2024-01-20,Product A,Electronics,6,498,C705,Returning
+2024-02-18,Product B,Beauty,12,816,C973,New
+2024-02-05,Product C,Beauty,20,1100,C822,VIP
+2024-01-08,Product B,Home & Kitchen,1,72,C815,VIP
+2024-03-21,Product D,Electronics,12,1032,C473,New
+2024-03-23,Product C,Home & Kitchen,15,840,C410,VIP
+2024-03-03,Product B,Electronics,4,168,C376,New
+2024-01-11,Product B,Beauty,7,392,C815,New
+2024-02-01,Product D,Beauty,3,288,C111,New
+2024-03-28,Product A,Clothing,2,158,C617,New
+2024-02-04,Product C,Beauty,12,1164,C344,New
+2024-02-07,Product B,Clothing,2,30,C175,Returning
+2024-02-08,Product B,Beauty,1,79,C675,New
+2024-02-28,Product A,Beauty,7,329,C812,Returning
+2024-01-04,Product A,Beauty,6,444,C522,Returning
+2024-02-09,Product B,Clothing,10,690,C799,Returning
+2024-03-09,Product C,Home & Kitchen,14,714,C116,Returning
+2024-02-12,Product A,Beauty,3,63,C533,VIP
+2024-02-20,Product A,Electronics,12,840,C975,VIP
+2024-03-11,Product D,Electronics,1,37,C275,Returning
+2024-03-24,Product B,Clothing,16,1440,C684,VIP
+2024-03-15,Product B,Beauty,19,1881,C956,New
+2024-03-16,Product B,Electronics,17,561,C146,Returning
+2024-01-02,Product D,Home & Kitchen,19,228,C361,Returning
+2024-03-30,Product B,Beauty,4,156,C463,Returning
+2024-03-15,Product B,Home & Kitchen,7,686,C582,Returning
+2024-03-01,Product D,Beauty,7,238,C700,VIP
+2024-01-18,Product C,Home & Kitchen,2,176,C285,New
+2024-01-26,Product B,Home & Kitchen,18,792,C787,New
+2024-03-12,Product D,Home & Kitchen,15,1320,C160,New
+2024-01-21,Product A,Home & Kitchen,1,100,C625,VIP
+2024-01-02,Product B,Home & Kitchen,7,189,C239,New
+2024-01-22,Product C,Home & Kitchen,10,180,C417,VIP
+2024-02-07,Product B,Clothing,3,234,C473,Returning
+2024-01-05,Product A,Beauty,3,30,C468,VIP
+2024-01-09,Product A,Home & Kitchen,4,52,C369,VIP
+2024-01-15,Product C,Home & Kitchen,15,1035,C466,Returning
+2024-01-12,Product C,Beauty,10,360,C465,VIP
+2024-03-10,Product B,Electronics,5,500,C719,New
+2024-01-31,Product A,Electronics,1,40,C663,VIP
+2024-03-29,Product D,Home & Kitchen,17,1275,C112,VIP
+2024-03-02,Product C,Clothing,4,300,C461,Returning
+2024-01-10,Product D,Home & Kitchen,19,418,C560,VIP
+2024-01-26,Product C,Clothing,3,165,C474,VIP
+2024-03-07,Product A,Electronics,13,585,C986,Returning
+2024-03-27,Product A,Clothing,7,245,C144,VIP
+2024-01-04,Product C,Home & Kitchen,13,247,C751,New
+2024-03-29,Product B,Beauty,18,522,C651,Returning
+2024-03-09,Product C,Electronics,3,249,C724,VIP
+2024-01-08,Product C,Home & Kitchen,3,261,C915,New
+2024-03-09,Product A,Home & Kitchen,20,360,C890,Returning
+2024-02-01,Product C,Beauty,13,884,C794,Returning
+2024-02-29,Product D,Electronics,19,1197,C955,Returning
+2024-01-10,Product D,Beauty,5,230,C601,Returning
+2024-03-06,Product A,Clothing,10,150,C786,New
+2024-01-11,Product C,Home & Kitchen,19,1824,C737,New
+2024-02-14,Product C,Clothing,18,900,C854,VIP
+2024-02-14,Product A,Beauty,20,780,C277,VIP
+2024-02-16,Product A,Beauty,9,99,C341,Returning
+2024-03-27,Product B,Clothing,7,595,C533,Returning
+2024-02-23,Product A,Beauty,11,594,C931,New
+2024-02-20,Product D,Electronics,9,801,C182,Returning
+2024-02-28,Product C,Home & Kitchen,2,142,C109,New
+2024-02-20,Product A,Beauty,15,1485,C589,Returning
+2024-01-23,Product B,Beauty,14,756,C178,Returning
+2024-02-09,Product A,Beauty,17,1156,C834,Returning
+2024-02-17,Product A,Home & Kitchen,18,1458,C379,New
+2024-03-09,Product A,Clothing,17,1020,C248,VIP
+2024-01-01,Product C,Home & Kitchen,3,279,C927,VIP
+2024-03-02,Product A,Beauty,16,352,C813,VIP
+2024-03-15,Product B,Beauty,9,279,C178,Returning
+2024-01-07,Product C,Beauty,7,539,C560,Returning
+2024-03-16,Product D,Home & Kitchen,6,234,C332,New
+2024-02-28,Product C,Beauty,10,640,C422,Returning
+2024-01-09,Product D,Home & Kitchen,14,546,C229,New
+2024-02-14,Product A,Beauty,16,672,C754,Returning
+2024-01-02,Product A,Clothing,19,1539,C699,VIP
+2024-01-07,Product A,Clothing,13,1261,C954,New
+2024-02-01,Product D,Beauty,13,221,C101,VIP
+2024-02-05,Product C,Electronics,12,228,C251,Returning
+2024-03-13,Product A,Beauty,5,190,C340,Returning
+2024-02-01,Product C,Clothing,1,79,C848,New
+2024-01-07,Product B,Home & Kitchen,14,1022,C796,VIP
+2024-03-09,Product B,Clothing,1,43,C655,VIP
+2024-01-25,Product A,Home & Kitchen,8,568,C387,Returning
+2024-01-30,Product B,Electronics,3,102,C830,Returning
+2024-02-24,Product C,Beauty,6,144,C878,VIP
+2024-02-13,Product D,Beauty,4,144,C553,Returning
+2024-02-04,Product B,Clothing,20,1280,C673,VIP
+2024-02-25,Product A,Home & Kitchen,17,1224,C852,Returning
+2024-01-05,Product B,Beauty,9,450,C202,New
+2024-01-06,Product A,Clothing,20,840,C833,New
+2024-02-05,Product A,Home & Kitchen,20,560,C161,VIP
+2024-02-05,Product C,Electronics,1,31,C751,Returning
+2024-03-05,Product D,Beauty,19,1311,C182,New
+2024-03-12,Product A,Home & Kitchen,14,1190,C891,VIP
+2024-03-16,Product C,Beauty,2,36,C617,Returning
+2024-02-01,Product C,Home & Kitchen,16,1072,C154,Returning
+2024-01-20,Product C,Home & Kitchen,5,190,C386,VIP
+2024-03-16,Product D,Electronics,7,385,C574,VIP
+2024-02-18,Product D,Beauty,20,1440,C733,Returning
+2024-03-27,Product D,Home & Kitchen,3,126,C161,New
+2024-03-05,Product C,Home & Kitchen,14,1204,C873,New
+2024-02-11,Product B,Electronics,12,840,C360,Returning
+2024-01-05,Product C,Beauty,10,130,C506,New
+2024-02-21,Product C,Clothing,8,784,C273,Returning
+2024-02-29,Product D,Electronics,11,220,C831,VIP
+2024-01-01,Product A,Home & Kitchen,3,96,C638,New
+2024-02-19,Product D,Home & Kitchen,15,435,C498,Returning
+2024-01-06,Product B,Home & Kitchen,2,156,C605,VIP
+2024-02-27,Product A,Electronics,7,91,C344,Returning
+2024-03-07,Product D,Home & Kitchen,6,396,C716,Returning
+2024-03-19,Product B,Clothing,18,468,C431,New
+2024-01-19,Product B,Home & Kitchen,15,1305,C483,Returning
+2024-03-19,Product D,Clothing,1,64,C794,VIP
+2024-01-04,Product A,Clothing,10,130,C824,Returning
+2024-02-17,Product D,Beauty,15,480,C847,Returning
+2024-03-05,Product D,Electronics,10,450,C933,VIP
+2024-03-31,Product B,Clothing,19,1007,C260,Returning
+2024-03-29,Product A,Beauty,6,564,C892,Returning
+2024-02-09,Product D,Home & Kitchen,20,1440,C350,Returning
+2024-01-03,Product C,Electronics,19,1330,C224,VIP
+2024-01-28,Product A,Home & Kitchen,10,500,C876,VIP
+2024-02-14,Product B,Electronics,3,204,C885,Returning
+2024-01-03,Product D,Home & Kitchen,11,1001,C494,Returning
+2024-02-12,Product B,Electronics,2,36,C826,VIP
+2024-02-21,Product D,Electronics,17,1530,C837,VIP
+2024-02-01,Product A,Beauty,17,595,C263,Returning
+2024-03-17,Product A,Clothing,11,209,C590,VIP
+2024-01-31,Product B,Beauty,17,374,C795,New
+2024-03-09,Product A,Home & Kitchen,16,912,C206,Returning
+2024-01-09,Product D,Home & Kitchen,5,240,C513,New
+2024-01-03,Product C,Home & Kitchen,17,1037,C636,Returning
+2024-01-19,Product A,Clothing,8,632,C770,New
+2024-02-01,Product A,Electronics,19,551,C240,VIP
+2024-03-03,Product A,Electronics,8,792,C832,VIP
+2024-01-24,Product D,Electronics,17,629,C651,VIP
+2024-03-14,Product B,Electronics,11,737,C702,VIP
+2024-02-08,Product A,Home & Kitchen,18,720,C359,VIP
+2024-03-11,Product D,Beauty,6,390,C531,VIP
+2024-01-11,Product B,Beauty,6,564,C171,VIP
+2024-02-16,Product C,Electronics,10,210,C743,Returning
+2024-02-22,Product B,Home & Kitchen,15,990,C755,VIP
+2024-03-03,Product C,Clothing,4,176,C278,VIP
+2024-01-24,Product B,Home & Kitchen,9,279,C651,Returning
+2024-03-30,Product C,Electronics,6,66,C233,Returning
+2024-02-26,Product A,Clothing,16,1520,C261,New
+2024-03-24,Product A,Home & Kitchen,9,171,C355,New
+2024-02-11,Product D,Clothing,14,1372,C229,New
+2024-02-01,Product B,Home & Kitchen,19,1045,C272,Returning
+2024-03-07,Product A,Clothing,11,649,C907,New
+2024-01-28,Product B,Beauty,19,950,C142,New
+2024-01-29,Product D,Electronics,16,1248,C669,Returning
+2024-01-13,Product C,Home & Kitchen,3,249,C498,VIP
+2024-01-10,Product A,Home & Kitchen,10,930,C502,Returning
+2024-02-16,Product C,Home & Kitchen,4,104,C712,New
+2024-01-01,Product D,Beauty,7,385,C121,Returning
+2024-02-20,Product A,Home & Kitchen,18,1242,C613,New
+2024-03-20,Product C,Beauty,13,130,C604,New
+2024-02-05,Product A,Electronics,11,715,C627,VIP
+2024-01-20,Product A,Clothing,2,114,C869,VIP
+2024-03-15,Product D,Electronics,4,192,C717,New
+2024-01-04,Product D,Clothing,9,279,C874,Returning
+2024-02-03,Product D,Beauty,19,969,C490,VIP
+2024-02-02,Product A,Home & Kitchen,17,901,C982,Returning
+2024-02-18,Product D,Electronics,3,147,C314,Returning
+2024-03-25,Product D,Clothing,17,629,C353,New
+2024-01-06,Product A,Clothing,11,330,C702,VIP
+2024-01-14,Product D,Home & Kitchen,8,288,C403,New
+2024-03-22,Product C,Home & Kitchen,14,1064,C315,New
+2024-01-15,Product D,Home & Kitchen,10,300,C656,Returning
+2024-03-29,Product B,Home & Kitchen,15,840,C451,Returning
+2024-03-31,Product B,Clothing,3,45,C628,VIP
+2024-02-10,Product C,Beauty,15,1245,C947,Returning
+2024-03-14,Product D,Beauty,20,920,C624,New
+2024-02-07,Product D,Clothing,7,217,C860,New
+2024-03-10,Product D,Clothing,9,288,C741,VIP
+2024-03-18,Product B,Home & Kitchen,13,897,C407,VIP
+2024-03-26,Product C,Clothing,20,1780,C986,New
+2024-03-18,Product C,Electronics,2,182,C824,New
+2024-03-15,Product B,Beauty,8,120,C465,Returning
+2024-02-23,Product A,Electronics,8,176,C431,Returning
+2024-01-14,Product B,Clothing,3,243,C353,VIP
+2024-02-06,Product C,Home & Kitchen,2,20,C915,New
+2024-02-24,Product D,Beauty,15,1350,C314,New
+2024-02-25,Product D,Beauty,1,13,C136,Returning
+2024-02-27,Product D,Clothing,19,1216,C696,Returning
+2024-02-26,Product C,Electronics,2,92,C101,New
+2024-01-27,Product C,Home & Kitchen,5,180,C839,VIP
+2024-01-08,Product A,Electronics,20,1120,C178,Returning
+2024-01-16,Product B,Home & Kitchen,2,98,C108,New
+2024-01-21,Product B,Beauty,12,384,C763,Returning
+2024-02-24,Product D,Electronics,16,928,C770,VIP
+2024-01-03,Product C,Electronics,14,1064,C489,New
+2024-03-05,Product D,Clothing,18,702,C626,New
+2024-03-17,Product C,Beauty,17,1309,C753,VIP
+2024-03-04,Product B,Clothing,3,135,C915,Returning
+2024-02-17,Product C,Electronics,20,820,C703,Returning
+2024-03-02,Product C,Electronics,11,594,C743,Returning
+2024-01-05,Product B,Clothing,5,300,C211,Returning
+2024-03-13,Product B,Clothing,4,208,C772,Returning
+2024-01-07,Product B,Beauty,15,1305,C403,VIP
+2024-03-21,Product C,Electronics,14,252,C901,New
+2024-01-27,Product C,Clothing,15,645,C983,VIP
+2024-02-17,Product D,Beauty,9,324,C166,New
+2024-03-15,Product C,Home & Kitchen,11,869,C829,Returning
+2024-02-28,Product C,Electronics,5,440,C991,New
+2024-03-20,Product B,Home & Kitchen,17,289,C458,VIP
+2024-01-13,Product A,Home & Kitchen,7,210,C482,New
+2024-03-18,Product B,Electronics,5,500,C143,VIP
+2024-01-06,Product A,Clothing,5,325,C363,Returning
+2024-01-02,Product C,Home & Kitchen,7,497,C249,Returning
+2024-02-26,Product C,Electronics,5,85,C381,VIP
+2024-02-15,Product A,Clothing,14,798,C936,Returning
+2024-01-13,Product B,Clothing,16,368,C262,VIP
+2024-01-09,Product A,Electronics,9,207,C251,New
+2024-02-26,Product D,Home & Kitchen,10,420,C125,VIP
+2024-02-29,Product A,Home & Kitchen,12,552,C224,VIP
+2024-01-12,Product D,Home & Kitchen,4,340,C582,New
+2024-03-06,Product B,Clothing,12,720,C251,New
+2024-02-24,Product D,Electronics,19,1786,C388,Returning
+2024-01-26,Product C,Electronics,10,490,C944,VIP
+2024-01-18,Product A,Beauty,3,141,C767,New
+2024-03-17,Product B,Electronics,11,495,C260,Returning
+2024-02-06,Product D,Electronics,5,200,C626,VIP
+2024-03-26,Product A,Home & Kitchen,13,637,C328,New
+2024-02-17,Product B,Clothing,12,252,C939,Returning
+2024-02-04,Product A,Clothing,6,372,C998,VIP
+2024-01-11,Product A,Electronics,5,440,C232,VIP
+2024-02-25,Product C,Clothing,7,497,C102,Returning
+2024-01-20,Product D,Home & Kitchen,20,1440,C836,VIP
+2024-02-10,Product D,Home & Kitchen,16,832,C756,New
+2024-01-01,Product D,Electronics,7,616,C257,Returning
+2024-03-09,Product B,Electronics,19,1387,C292,VIP
+2024-03-23,Product B,Home & Kitchen,5,330,C130,Returning
+2024-03-21,Product A,Home & Kitchen,1,59,C713,New
+2024-03-21,Product B,Electronics,19,399,C565,New
+2024-03-31,Product A,Electronics,13,494,C258,New
+2024-03-09,Product A,Home & Kitchen,2,110,C655,New
+2024-01-30,Product D,Electronics,14,588,C237,Returning
+2024-03-21,Product D,Beauty,8,664,C402,VIP
+2024-03-06,Product A,Electronics,20,500,C834,VIP
+2024-02-02,Product D,Clothing,13,754,C481,Returning
+2024-01-28,Product A,Clothing,9,234,C738,Returning
+2024-03-21,Product B,Home & Kitchen,8,576,C727,VIP
+2024-01-31,Product D,Electronics,8,552,C230,Returning
+2024-01-12,Product B,Clothing,14,1218,C871,Returning
+2024-02-19,Product B,Home & Kitchen,12,324,C214,VIP
+2024-03-13,Product A,Clothing,6,582,C132,VIP
+2024-02-05,Product D,Electronics,2,172,C595,Returning
+2024-03-25,Product B,Electronics,11,1056,C367,Returning
+2024-01-25,Product D,Clothing,3,171,C705,VIP
+2024-01-02,Product A,Electronics,9,387,C162,Returning
+2024-03-17,Product B,Electronics,2,42,C898,New
+2024-01-12,Product C,Electronics,16,528,C195,New
+2024-03-11,Product B,Home & Kitchen,15,930,C568,New
+2024-03-15,Product B,Home & Kitchen,18,666,C568,VIP
+2024-02-02,Product B,Clothing,18,1710,C119,VIP
+2024-01-27,Product C,Beauty,3,297,C102,Returning
+2024-01-04,Product D,Home & Kitchen,11,605,C737,New
+2024-03-10,Product A,Beauty,10,750,C650,Returning
+2024-01-24,Product C,Clothing,10,610,C417,Returning
+2024-02-18,Product D,Clothing,15,540,C408,New
+2024-01-06,Product A,Electronics,18,918,C872,New
+2024-01-20,Product C,Beauty,5,345,C105,Returning
+2024-01-25,Product C,Home & Kitchen,17,1037,C765,Returning
+2024-01-20,Product B,Electronics,19,646,C210,Returning
+2024-01-14,Product D,Home & Kitchen,7,595,C686,VIP
+2024-02-14,Product A,Clothing,18,1062,C841,Returning
+2024-03-22,Product C,Home & Kitchen,9,306,C238,VIP
+2024-02-22,Product B,Home & Kitchen,16,640,C298,New
+2024-03-16,Product A,Home & Kitchen,17,1054,C590,VIP
+2024-01-03,Product C,Electronics,12,384,C528,New
+2024-01-10,Product D,Electronics,10,110,C371,New
+2024-03-23,Product C,Home & Kitchen,8,720,C985,VIP
+2024-01-08,Product D,Home & Kitchen,4,80,C723,Returning
+2024-01-02,Product B,Clothing,1,24,C345,Returning
+2024-03-08,Product A,Electronics,14,140,C276,New
+2024-02-15,Product A,Home & Kitchen,15,870,C445,New
+2024-03-18,Product B,Beauty,15,990,C725,VIP
+2024-02-16,Product D,Beauty,7,504,C349,VIP
+2024-03-24,Product B,Home & Kitchen,16,656,C141,Returning
+2024-01-27,Product D,Home & Kitchen,7,672,C375,VIP
+2024-02-25,Product A,Beauty,4,228,C654,Returning
+2024-02-22,Product B,Electronics,2,70,C157,New
+2024-01-29,Product A,Electronics,9,837,C359,Returning
+2024-01-10,Product B,Clothing,11,1034,C944,Returning
+2024-02-20,Product B,Beauty,2,48,C753,VIP
+2024-02-21,Product A,Home & Kitchen,18,540,C916,VIP
+2024-03-30,Product C,Electronics,5,295,C611,Returning
+2024-03-14,Product A,Beauty,6,372,C904,VIP
+2024-03-24,Product D,Clothing,12,600,C824,Returning
+2024-01-01,Product B,Electronics,1,64,C404,Returning
+2024-03-17,Product B,Home & Kitchen,19,855,C749,Returning
+2024-01-29,Product C,Home & Kitchen,8,400,C838,VIP
+2024-03-26,Product A,Clothing,17,1258,C563,Returning
+2024-01-11,Product D,Home & Kitchen,17,527,C593,Returning
+2024-01-16,Product C,Beauty,11,528,C172,New
+2024-03-16,Product B,Clothing,10,100,C211,VIP
+2024-02-19,Product B,Electronics,12,600,C954,New
+2024-02-16,Product D,Clothing,7,630,C568,VIP
+2024-03-18,Product C,Clothing,12,1008,C253,Returning
+2024-02-19,Product B,Beauty,16,1104,C958,VIP
+2024-02-29,Product A,Clothing,7,315,C806,New
+2024-02-20,Product B,Home & Kitchen,16,416,C942,VIP
+2024-01-02,Product D,Beauty,9,153,C370,VIP
+2024-01-26,Product D,Beauty,2,108,C118,Returning
+2024-03-20,Product B,Clothing,6,480,C118,Returning
+2024-02-20,Product A,Electronics,10,700,C715,Returning
+2024-02-29,Product B,Clothing,13,1105,C733,New
+2024-01-02,Product B,Electronics,4,388,C725,New
+2024-03-07,Product A,Clothing,7,525,C596,New
+2024-02-05,Product A,Home & Kitchen,2,46,C312,Returning
+2024-03-27,Product A,Beauty,3,39,C529,Returning
+2024-03-02,Product A,Electronics,19,1501,C456,VIP
+2024-03-20,Product C,Home & Kitchen,11,946,C976,VIP
+2024-02-13,Product A,Beauty,12,1140,C610,VIP
+2024-02-24,Product B,Clothing,4,128,C277,VIP
+2024-03-27,Product A,Electronics,20,1040,C730,New
+2024-03-25,Product B,Electronics,5,340,C492,Returning
+2024-02-11,Product D,Home & Kitchen,8,784,C138,New
+2024-01-02,Product A,Home & Kitchen,7,455,C794,New
+2024-01-18,Product B,Clothing,10,960,C975,New
+2024-03-26,Product D,Home & Kitchen,8,216,C113,New
+2024-02-10,Product A,Electronics,7,238,C238,Returning
+2024-01-05,Product B,Home & Kitchen,15,825,C308,New
+2024-03-31,Product D,Clothing,4,400,C910,Returning
+2024-03-31,Product D,Clothing,13,455,C567,New
+2024-01-22,Product B,Electronics,12,1116,C287,New
+2024-01-30,Product C,Clothing,11,297,C888,New
+2024-01-23,Product A,Home & Kitchen,19,1520,C342,New
+2024-03-29,Product C,Electronics,17,697,C125,Returning
+2024-02-01,Product C,Electronics,5,380,C929,New
+2024-01-18,Product A,Beauty,5,290,C512,VIP
+2024-01-30,Product C,Beauty,12,228,C739,New
+2024-02-22,Product D,Electronics,17,1207,C208,New
+2024-01-29,Product A,Beauty,11,132,C246,VIP
+2024-02-26,Product A,Electronics,4,180,C441,VIP
+2024-03-29,Product C,Electronics,19,1292,C895,New
+2024-03-21,Product C,Home & Kitchen,4,84,C395,VIP
+2024-03-23,Product B,Electronics,20,200,C117,New
+2024-02-18,Product C,Electronics,10,820,C958,Returning
+2024-03-25,Product C,Home & Kitchen,4,344,C763,Returning
+2024-03-17,Product B,Clothing,3,75,C973,VIP
+2024-01-30,Product C,Clothing,6,270,C295,New
+2024-03-06,Product D,Electronics,10,230,C615,New
+2024-01-10,Product A,Clothing,12,240,C228,VIP
+2024-03-23,Product C,Clothing,19,1083,C241,VIP
+2024-01-03,Product D,Beauty,10,220,C364,VIP
+2024-03-12,Product C,Home & Kitchen,15,1455,C399,VIP
+2024-01-09,Product A,Electronics,6,288,C903,New
+2024-02-26,Product B,Beauty,8,672,C783,New
+2024-02-07,Product B,Clothing,11,385,C656,New
+2024-03-31,Product A,Home & Kitchen,16,688,C811,Returning
+2024-03-27,Product D,Beauty,16,832,C316,New
+2024-02-09,Product A,Beauty,20,340,C734,New
+2024-02-11,Product C,Beauty,15,420,C785,VIP
+2024-03-11,Product B,Clothing,19,1539,C788,New
+2024-02-23,Product B,Clothing,1,12,C986,Returning
+2024-01-04,Product C,Home & Kitchen,19,836,C865,VIP
+2024-01-23,Product D,Clothing,13,754,C813,New
+2024-03-28,Product C,Beauty,10,560,C723,Returning
+2024-02-29,Product B,Home & Kitchen,18,1224,C766,VIP
+2024-03-07,Product B,Clothing,9,810,C922,Returning
+2024-02-08,Product B,Home & Kitchen,6,546,C461,VIP
+2024-03-16,Product C,Electronics,8,384,C598,VIP
+2024-01-31,Product D,Home & Kitchen,16,1216,C363,New
+2024-02-14,Product B,Electronics,3,42,C142,VIP
+2024-01-25,Product C,Electronics,14,994,C926,New
+2024-03-07,Product D,Home & Kitchen,18,216,C313,VIP
+2024-02-16,Product D,Home & Kitchen,9,729,C659,VIP
+2024-03-04,Product A,Beauty,19,190,C678,VIP
+2024-01-09,Product C,Clothing,17,935,C718,New
+2024-03-10,Product C,Beauty,10,460,C223,New
+2024-01-18,Product C,Home & Kitchen,10,270,C433,Returning
+2024-03-05,Product B,Electronics,3,195,C342,New
+2024-02-18,Product C,Clothing,14,756,C201,New
+2024-02-01,Product D,Electronics,1,73,C883,VIP
+2024-03-22,Product D,Electronics,11,1034,C966,Returning
+2024-03-09,Product B,Electronics,17,1292,C227,VIP
+2024-02-27,Product C,Electronics,18,288,C485,New
+2024-03-19,Product C,Beauty,2,122,C316,New
+2024-02-16,Product C,Electronics,12,576,C136,New
+2024-03-27,Product A,Clothing,2,62,C225,Returning
+2024-03-13,Product A,Clothing,15,810,C215,New
+2024-03-12,Product D,Home & Kitchen,2,136,C260,Returning
+2024-02-03,Product A,Beauty,20,980,C347,Returning
+2024-03-12,Product B,Clothing,7,98,C687,Returning
+2024-02-02,Product D,Home & Kitchen,18,1044,C217,New
+2024-01-13,Product A,Clothing,9,738,C709,New
+2024-03-11,Product C,Beauty,2,82,C877,New
+2024-03-12,Product C,Home & Kitchen,2,26,C615,New
+2024-02-09,Product B,Clothing,8,384,C201,Returning
+2024-01-25,Product B,Beauty,8,720,C664,Returning
+2024-02-19,Product C,Home & Kitchen,18,558,C502,Returning
+2024-02-03,Product B,Beauty,8,672,C377,Returning
+2024-03-08,Product D,Electronics,1,38,C199,Returning
+2024-03-07,Product C,Electronics,14,1232,C173,Returning
+2024-02-15,Product A,Home & Kitchen,17,1139,C862,VIP
+2024-01-31,Product A,Beauty,10,820,C632,VIP
+2024-03-02,Product C,Electronics,6,114,C976,VIP
+2024-01-09,Product B,Clothing,12,804,C194,New
+2024-01-15,Product A,Electronics,9,630,C873,VIP
+2024-02-28,Product C,Clothing,19,589,C716,Returning
+2024-02-11,Product D,Home & Kitchen,8,176,C961,VIP
+2024-01-30,Product C,Clothing,8,312,C119,New
+2024-03-13,Product C,Electronics,16,960,C175,VIP
+2024-03-01,Product A,Electronics,2,38,C991,VIP
+2024-01-12,Product A,Home & Kitchen,9,180,C828,Returning
+2024-02-14,Product D,Home & Kitchen,3,150,C561,New
+2024-03-24,Product A,Clothing,16,1312,C695,VIP
+2024-02-03,Product B,Clothing,6,582,C852,Returning
+2024-02-24,Product B,Home & Kitchen,12,1200,C653,New
+2024-02-28,Product A,Beauty,5,250,C234,New
+2024-02-25,Product B,Clothing,4,296,C900,New
+2024-02-21,Product A,Electronics,18,270,C953,New
+2024-02-21,Product C,Beauty,2,82,C741,Returning
+2024-01-30,Product B,Clothing,18,1404,C559,New
+2024-02-16,Product C,Electronics,9,540,C949,New
+2024-03-15,Product D,Home & Kitchen,4,132,C518,VIP
+2024-03-20,Product D,Beauty,19,209,C845,New
+2024-02-02,Product B,Clothing,8,800,C118,New
+2024-02-20,Product D,Home & Kitchen,1,77,C213,VIP
+2024-01-31,Product B,Home & Kitchen,20,880,C168,Returning
+2024-02-17,Product C,Home & Kitchen,15,855,C472,New
+2024-03-27,Product D,Beauty,3,144,C374,VIP
+2024-03-17,Product D,Home & Kitchen,16,1456,C832,Returning
+2024-02-04,Product D,Clothing,8,128,C694,Returning
+2024-03-06,Product C,Clothing,14,546,C743,New
+2024-01-01,Product A,Home & Kitchen,13,767,C644,New
+2024-03-29,Product C,Home & Kitchen,10,380,C742,New
+2024-02-27,Product B,Home & Kitchen,14,938,C568,Returning
+2024-03-20,Product B,Beauty,19,1349,C372,VIP
+2024-02-23,Product A,Home & Kitchen,2,160,C318,New
+2024-01-31,Product A,Clothing,4,280,C654,VIP
+2024-03-11,Product D,Electronics,3,132,C499,New
+2024-02-02,Product A,Beauty,14,1134,C409,Returning
+2024-02-16,Product C,Beauty,4,396,C905,Returning
+2024-03-23,Product B,Beauty,9,135,C515,Returning
+2024-02-22,Product C,Electronics,3,231,C651,New
+2024-01-23,Product D,Beauty,4,136,C255,VIP
+2024-01-21,Product A,Clothing,3,78,C628,Returning
+2024-01-01,Product C,Clothing,4,180,C128,Returning
+2024-02-29,Product D,Clothing,8,584,C893,Returning
+2024-02-05,Product D,Beauty,9,432,C677,New
+2024-02-17,Product C,Home & Kitchen,9,504,C453,VIP
+2024-03-25,Product B,Home & Kitchen,17,238,C567,VIP
+2024-02-06,Product C,Clothing,11,231,C187,New
+2024-03-18,Product C,Beauty,12,228,C712,VIP
+2024-03-01,Product A,Home & Kitchen,5,285,C782,VIP
+2024-03-05,Product B,Clothing,18,828,C236,New
+2024-03-11,Product D,Clothing,1,33,C799,New
+2024-02-21,Product D,Beauty,2,26,C531,New
+2024-03-08,Product D,Home & Kitchen,1,15,C735,New
+2024-03-17,Product B,Beauty,4,72,C707,VIP
+2024-02-06,Product C,Home & Kitchen,20,1700,C537,Returning
+2024-01-21,Product A,Clothing,2,80,C608,VIP
+2024-01-07,Product B,Electronics,17,680,C742,New
+2024-01-22,Product D,Electronics,1,10,C333,VIP
+2024-01-06,Product B,Clothing,2,102,C124,New
+2024-02-08,Product D,Clothing,4,288,C246,New
+2024-02-18,Product D,Clothing,10,100,C404,Returning
+2024-02-20,Product C,Clothing,5,215,C898,Returning
+2024-01-17,Product D,Clothing,4,92,C550,Returning
+2024-03-12,Product B,Electronics,2,188,C479,VIP
+2024-03-31,Product D,Beauty,3,195,C438,New
+2024-03-17,Product B,Beauty,16,928,C378,VIP
+2024-01-30,Product C,Beauty,15,1425,C844,VIP
+2024-01-22,Product C,Home & Kitchen,8,256,C300,New
+2024-02-24,Product D,Beauty,6,474,C745,VIP
+2024-03-08,Product B,Home & Kitchen,20,840,C875,VIP
+2024-01-04,Product B,Home & Kitchen,12,456,C381,Returning
+2024-03-15,Product D,Electronics,1,43,C455,VIP
+2024-02-18,Product A,Beauty,7,420,C215,New
+2024-01-07,Product D,Home & Kitchen,5,415,C319,New
+2024-03-07,Product C,Home & Kitchen,2,86,C936,New
+2024-03-10,Product B,Beauty,17,510,C777,Returning
+2024-02-13,Product A,Home & Kitchen,3,282,C943,New
+2024-03-23,Product A,Electronics,10,520,C916,New
+2024-01-07,Product C,Clothing,10,790,C935,Returning
+2024-03-14,Product B,Home & Kitchen,6,498,C600,New
+2024-03-16,Product A,Beauty,7,511,C636,VIP
+2024-03-20,Product C,Electronics,1,33,C735,VIP
+2024-01-01,Product B,Beauty,3,213,C259,New
+2024-01-17,Product B,Beauty,20,720,C982,VIP
+2024-02-16,Product A,Clothing,17,663,C951,Returning
+2024-03-13,Product D,Clothing,13,208,C626,New
+2024-01-10,Product A,Clothing,5,115,C138,Returning
+2024-03-20,Product D,Beauty,5,380,C134,Returning
+2024-03-13,Product D,Electronics,13,390,C159,VIP
+2024-01-03,Product C,Home & Kitchen,8,368,C500,VIP
+2024-02-13,Product D,Home & Kitchen,16,1216,C806,VIP
+2024-03-28,Product A,Beauty,6,222,C287,New
+2024-03-24,Product C,Beauty,10,860,C986,New
+2024-03-09,Product C,Home & Kitchen,12,1104,C592,VIP
+2024-03-25,Product C,Beauty,2,168,C565,New
+2024-01-25,Product B,Beauty,6,378,C703,VIP
+2024-03-17,Product B,Clothing,7,420,C160,Returning
+2024-01-02,Product C,Home & Kitchen,17,918,C254,New
+2024-01-31,Product C,Clothing,18,1170,C366,VIP
+2024-02-28,Product C,Clothing,4,180,C879,New
+2024-03-02,Product A,Clothing,1,36,C937,Returning
+2024-02-02,Product D,Electronics,18,702,C412,VIP
+2024-03-06,Product B,Beauty,19,532,C797,Returning
+2024-01-12,Product A,Clothing,16,384,C671,New
+2024-03-02,Product A,Electronics,14,728,C483,Returning
+2024-03-06,Product B,Clothing,7,434,C513,Returning
+2024-02-04,Product D,Home & Kitchen,15,1215,C909,New
+2024-02-08,Product C,Home & Kitchen,13,312,C777,New
+2024-02-21,Product C,Electronics,11,550,C180,New
+2024-01-03,Product D,Home & Kitchen,13,572,C846,New
+2024-03-19,Product D,Electronics,1,46,C870,New
+2024-01-22,Product D,Electronics,20,280,C144,New
+2024-03-25,Product A,Beauty,13,260,C456,Returning
+2024-02-07,Product A,Home & Kitchen,6,108,C213,New
+2024-02-05,Product A,Home & Kitchen,7,287,C343,VIP
+2024-03-17,Product A,Beauty,10,430,C369,VIP
+2024-02-10,Product D,Home & Kitchen,17,510,C704,VIP
+2024-03-12,Product D,Home & Kitchen,11,957,C666,VIP
+2024-03-31,Product D,Beauty,7,119,C735,Returning
+2024-02-10,Product B,Clothing,2,66,C510,New
+2024-03-31,Product A,Clothing,15,1185,C857,Returning
+2024-01-17,Product B,Home & Kitchen,2,52,C203,New
+2024-03-24,Product A,Clothing,2,104,C395,Returning
+2024-02-28,Product A,Beauty,9,846,C119,New
+2024-03-30,Product A,Beauty,15,405,C207,VIP
+2024-03-20,Product D,Home & Kitchen,10,910,C470,Returning
+2024-02-22,Product A,Clothing,14,1232,C741,Returning
+2024-03-14,Product B,Clothing,4,60,C311,VIP
+2024-01-13,Product C,Beauty,6,210,C329,Returning
+2024-03-06,Product C,Beauty,10,650,C862,New
+2024-02-08,Product B,Clothing,13,741,C890,VIP
+2024-01-22,Product B,Clothing,15,225,C112,Returning
+2024-03-06,Product A,Home & Kitchen,15,765,C717,New
+2024-01-08,Product D,Home & Kitchen,8,744,C410,New
+2024-02-19,Product B,Home & Kitchen,2,152,C478,Returning
+2024-01-05,Product B,Clothing,16,512,C761,VIP
+2024-01-18,Product B,Beauty,3,225,C558,New
+2024-01-04,Product D,Beauty,8,296,C282,VIP
+2024-02-04,Product D,Home & Kitchen,12,156,C900,VIP
+2024-01-31,Product D,Home & Kitchen,3,117,C207,Returning
+2024-01-06,Product C,Home & Kitchen,2,96,C306,Returning
+2024-02-29,Product D,Electronics,7,693,C153,VIP
+2024-02-27,Product C,Clothing,6,528,C717,VIP
+2024-02-03,Product A,Beauty,2,172,C580,New
+2024-01-29,Product D,Clothing,19,1121,C655,New
+2024-01-09,Product B,Clothing,8,184,C574,VIP
+2024-01-06,Product A,Clothing,12,144,C882,New
+2024-02-02,Product D,Beauty,19,456,C125,New
+2024-02-27,Product D,Home & Kitchen,14,826,C665,New
+2024-03-05,Product D,Electronics,11,869,C415,Returning
+2024-02-26,Product C,Beauty,13,845,C518,Returning
+2024-02-23,Product C,Electronics,14,728,C746,New
+2024-03-21,Product B,Electronics,19,1463,C689,Returning
+2024-01-10,Product A,Electronics,1,40,C888,New
+2024-03-19,Product C,Home & Kitchen,11,704,C847,New
+2024-01-08,Product A,Home & Kitchen,4,272,C628,VIP
+2024-01-11,Product A,Home & Kitchen,13,377,C157,Returning
+2024-02-09,Product D,Electronics,9,387,C922,New
+2024-01-27,Product D,Electronics,2,150,C181,New
+2024-03-03,Product D,Beauty,12,144,C528,New
+2024-01-20,Product C,Home & Kitchen,19,1805,C815,VIP
+2024-03-14,Product C,Clothing,12,996,C216,Returning
+2024-01-30,Product D,Electronics,14,406,C218,New
+2024-03-04,Product C,Home & Kitchen,12,348,C256,Returning
+2024-03-01,Product D,Clothing,11,858,C759,VIP
+2024-02-18,Product B,Clothing,17,1615,C754,New
+2024-02-28,Product B,Clothing,2,28,C255,VIP
+2024-01-19,Product D,Home & Kitchen,3,246,C776,New
+2024-03-11,Product D,Beauty,13,1261,C494,VIP
+2024-03-04,Product B,Beauty,5,430,C856,Returning
+2024-01-04,Product C,Electronics,20,440,C839,VIP
+2024-02-27,Product A,Beauty,19,1102,C439,New
+2024-02-25,Product B,Clothing,18,1350,C556,VIP
+2024-02-26,Product C,Clothing,5,110,C286,VIP
+2024-03-16,Product D,Clothing,11,605,C139,Returning
+2024-02-13,Product D,Beauty,18,540,C467,New
+2024-02-10,Product B,Home & Kitchen,18,378,C503,VIP
+2024-03-24,Product B,Beauty,19,1539,C514,Returning
+2024-02-05,Product A,Electronics,20,800,C985,VIP
+2024-03-09,Product A,Electronics,7,497,C729,VIP
+2024-02-19,Product B,Beauty,14,448,C558,New
+2024-01-18,Product D,Clothing,10,820,C585,VIP
+2024-01-08,Product A,Beauty,20,1360,C595,VIP
+2024-01-28,Product B,Home & Kitchen,15,630,C527,New
+2024-02-27,Product A,Home & Kitchen,3,99,C168,Returning
+2024-01-26,Product D,Home & Kitchen,2,108,C378,New
+2024-03-01,Product D,Electronics,19,665,C340,Returning
+2024-02-29,Product B,Beauty,4,108,C391,Returning
+2024-02-23,Product A,Beauty,20,620,C405,Returning
+2024-01-04,Product A,Home & Kitchen,17,1207,C782,New
+2024-02-06,Product A,Clothing,3,171,C360,VIP
+2024-02-14,Product B,Clothing,1,54,C720,VIP
+2024-03-25,Product A,Electronics,10,110,C868,New
+2024-03-09,Product C,Clothing,5,360,C329,Returning
+2024-02-17,Product D,Beauty,14,1078,C265,Returning
+2024-03-08,Product D,Home & Kitchen,19,1387,C587,VIP
+2024-02-22,Product B,Beauty,18,828,C822,New
+2024-02-04,Product C,Beauty,4,264,C343,New
+2024-02-12,Product B,Clothing,9,531,C616,Returning
+2024-03-31,Product B,Beauty,11,264,C168,Returning
+2024-02-19,Product B,Beauty,16,848,C246,VIP
+2024-02-27,Product A,Beauty,4,292,C836,VIP
+2024-01-01,Product A,Electronics,16,256,C663,VIP
+2024-01-12,Product B,Home & Kitchen,6,318,C509,VIP
+2024-02-04,Product A,Beauty,11,616,C310,Returning
+2024-01-08,Product D,Clothing,5,280,C361,Returning
+2024-03-05,Product A,Home & Kitchen,11,682,C441,Returning
+2024-01-29,Product A,Beauty,1,39,C241,VIP
+2024-01-05,Product B,Clothing,8,376,C315,VIP
+2024-02-03,Product C,Electronics,19,304,C810,New
+2024-01-29,Product B,Beauty,17,1564,C814,VIP
+2024-02-23,Product A,Beauty,16,672,C976,Returning
+2024-01-10,Product B,Electronics,7,189,C606,New
+2024-02-21,Product D,Home & Kitchen,8,592,C100,VIP
+2024-02-19,Product C,Clothing,7,546,C601,New
+2024-01-16,Product D,Clothing,15,345,C420,Returning
+2024-03-15,Product A,Electronics,18,810,C890,VIP
+2024-02-27,Product C,Beauty,12,1092,C398,New
+2024-03-09,Product B,Beauty,14,924,C987,VIP
+2024-02-24,Product A,Electronics,4,104,C516,Returning
+2024-03-12,Product A,Beauty,10,300,C172,Returning
+2024-01-11,Product A,Electronics,7,385,C139,New
+2024-02-07,Product B,Electronics,12,720,C324,VIP
+2024-01-03,Product D,Clothing,9,783,C581,Returning
+2024-02-15,Product A,Clothing,14,672,C174,Returning
+2024-03-08,Product B,Home & Kitchen,5,140,C342,VIP
+2024-03-23,Product D,Electronics,14,1218,C122,New
+2024-02-07,Product D,Beauty,8,240,C337,New
+2024-01-07,Product C,Clothing,1,100,C515,Returning
+2024-02-18,Product D,Electronics,9,540,C523,VIP
+2024-03-27,Product B,Beauty,8,800,C162,Returning
+2024-02-17,Product C,Electronics,14,1372,C402,Returning
+2024-03-11,Product D,Home & Kitchen,6,276,C932,Returning
+2024-02-23,Product D,Clothing,17,187,C510,VIP
+2024-01-18,Product C,Home & Kitchen,1,77,C715,VIP
+2024-03-20,Product C,Electronics,8,472,C807,VIP
+2024-03-04,Product A,Clothing,13,1092,C894,VIP
+2024-02-07,Product A,Beauty,14,1036,C383,Returning
+2024-02-22,Product B,Beauty,6,528,C414,New
+2024-01-09,Product C,Clothing,12,684,C217,Returning
+2024-03-02,Product A,Electronics,10,760,C710,Returning
+2024-01-28,Product C,Home & Kitchen,4,68,C407,New
+2024-03-26,Product A,Home & Kitchen,10,930,C835,New
+2024-01-26,Product A,Beauty,18,324,C141,Returning
+2024-03-31,Product A,Electronics,20,800,C558,VIP
+2024-02-06,Product B,Electronics,10,910,C647,Returning
+2024-02-24,Product B,Clothing,13,1092,C886,VIP
+2024-03-14,Product C,Beauty,3,156,C392,New
+2024-02-20,Product D,Clothing,13,806,C725,New
+2024-02-03,Product C,Clothing,3,81,C716,VIP
+2024-01-17,Product A,Electronics,9,657,C423,VIP
+2024-02-09,Product D,Electronics,14,714,C969,VIP
+2024-03-21,Product B,Beauty,4,388,C711,VIP
+2024-03-11,Product D,Clothing,5,320,C373,New
+2024-03-19,Product C,Home & Kitchen,7,595,C717,Returning
+2024-03-08,Product B,Clothing,15,1095,C282,VIP
+2024-01-25,Product D,Beauty,3,60,C623,New
+2024-02-01,Product A,Clothing,1,48,C831,Returning
+2024-02-02,Product C,Electronics,11,506,C869,New
+2024-02-15,Product A,Beauty,7,371,C591,Returning
+2024-03-11,Product A,Clothing,17,408,C972,New
+2024-01-19,Product B,Home & Kitchen,17,901,C165,New
+2024-03-12,Product C,Electronics,13,1222,C482,VIP
+2024-03-21,Product C,Beauty,16,432,C966,Returning
+2024-03-07,Product D,Beauty,13,715,C212,New
+2024-03-04,Product A,Electronics,12,624,C522,New
+2024-01-28,Product D,Home & Kitchen,5,200,C228,VIP
+2024-02-28,Product C,Home & Kitchen,12,684,C573,New
+2024-02-09,Product A,Clothing,3,300,C700,Returning
+2024-03-23,Product C,Beauty,9,450,C451,VIP
+2024-01-22,Product C,Electronics,6,582,C463,Returning
+2024-02-18,Product B,Electronics,10,330,C975,Returning
+2024-01-13,Product D,Beauty,16,768,C368,Returning
+2024-02-01,Product B,Home & Kitchen,2,90,C811,New
+2024-03-27,Product D,Beauty,11,275,C291,VIP
+2024-01-17,Product D,Electronics,2,156,C542,New
+2024-02-08,Product B,Electronics,20,920,C272,VIP
+2024-02-17,Product A,Clothing,14,364,C296,Returning
+2024-03-20,Product A,Electronics,7,210,C920,Returning
+2024-03-12,Product A,Home & Kitchen,15,840,C110,VIP
+2024-01-27,Product C,Home & Kitchen,15,660,C172,VIP
+2024-01-23,Product A,Home & Kitchen,16,576,C242,VIP
+2024-02-14,Product A,Home & Kitchen,8,472,C596,VIP
+2024-01-25,Product C,Electronics,9,882,C535,Returning
+2024-01-09,Product D,Beauty,7,371,C954,Returning
+2024-02-13,Product B,Home & Kitchen,11,132,C985,Returning
+2024-02-16,Product D,Clothing,12,1092,C541,VIP
+2024-03-03,Product D,Home & Kitchen,14,406,C694,New
+2024-02-26,Product C,Home & Kitchen,10,950,C330,New
+2024-01-29,Product D,Beauty,6,528,C153,VIP
+2024-02-04,Product C,Electronics,4,64,C908,VIP
+2024-03-25,Product A,Clothing,9,396,C457,Returning
+2024-01-24,Product A,Beauty,2,128,C198,VIP
+2024-03-13,Product D,Electronics,17,1122,C474,New
+2024-02-21,Product C,Beauty,13,689,C822,New
+2024-02-22,Product C,Electronics,16,912,C292,VIP
+2024-01-01,Product B,Beauty,9,711,C952,New
+2024-03-21,Product B,Beauty,12,228,C754,VIP
+2024-01-26,Product C,Electronics,11,517,C564,New
+2024-02-08,Product A,Clothing,19,874,C530,Returning
+2024-03-06,Product C,Clothing,7,665,C294,New
+2024-01-29,Product C,Clothing,20,1920,C845,New
+2024-02-03,Product D,Clothing,4,180,C794,New
+2024-01-28,Product C,Home & Kitchen,3,168,C636,Returning
+2024-03-23,Product D,Home & Kitchen,8,456,C285,Returning
+2024-03-23,Product D,Clothing,20,420,C329,Returning
+2024-03-16,Product A,Clothing,15,1485,C508,New
+2024-02-02,Product B,Home & Kitchen,20,1920,C983,VIP
+2024-02-07,Product C,Beauty,15,1275,C430,VIP
+2024-03-15,Product B,Electronics,10,1000,C388,New
+2024-02-19,Product C,Electronics,6,60,C954,Returning
+2024-01-04,Product B,Beauty,13,1209,C116,New
+2024-01-17,Product B,Electronics,12,324,C520,New
+2024-03-08,Product D,Electronics,4,144,C234,Returning
+2024-03-08,Product A,Clothing,16,1392,C898,New
+2024-03-25,Product D,Electronics,1,59,C446,New
+2024-01-21,Product C,Home & Kitchen,4,140,C192,Returning
+2024-03-07,Product D,Home & Kitchen,16,864,C144,VIP
+2024-02-11,Product A,Electronics,2,182,C466,New
+2024-01-21,Product A,Beauty,4,96,C788,New
+2024-03-30,Product D,Clothing,7,287,C132,Returning
+2024-02-25,Product B,Home & Kitchen,9,153,C381,New
+2024-02-29,Product C,Electronics,12,1176,C538,New
+2024-02-05,Product D,Clothing,20,640,C433,VIP
+2024-02-03,Product A,Beauty,1,49,C837,VIP
+2024-03-29,Product A,Electronics,1,46,C910,Returning
+2024-02-16,Product A,Beauty,20,720,C970,New
+2024-01-31,Product C,Clothing,7,91,C811,Returning
+2024-02-10,Product A,Electronics,10,540,C934,Returning
+2024-03-25,Product A,Electronics,6,588,C640,VIP
+2024-03-29,Product A,Beauty,14,350,C657,VIP
+2024-03-14,Product C,Clothing,12,360,C545,New
+2024-02-03,Product D,Home & Kitchen,16,928,C920,VIP
+2024-01-19,Product A,Beauty,17,1173,C980,Returning
+2024-01-23,Product C,Beauty,1,37,C990,New
+2024-02-08,Product C,Beauty,4,80,C858,Returning
+2024-02-11,Product D,Clothing,17,1530,C633,VIP
+2024-02-29,Product A,Clothing,7,357,C842,VIP
+2024-01-08,Product B,Clothing,2,106,C941,Returning
+2024-03-16,Product C,Beauty,4,212,C317,New
+2024-02-10,Product D,Beauty,13,767,C122,VIP
+2024-03-24,Product A,Clothing,12,936,C457,New
+2024-02-06,Product C,Electronics,17,1292,C426,Returning
+2024-03-04,Product C,Beauty,6,312,C631,Returning
+2024-01-08,Product D,Beauty,6,420,C366,VIP
+2024-02-07,Product B,Electronics,20,1780,C417,Returning
+2024-01-05,Product B,Home & Kitchen,12,348,C381,VIP
+2024-01-06,Product C,Home & Kitchen,2,166,C161,New
+2024-01-15,Product B,Home & Kitchen,1,67,C991,Returning
+2024-01-25,Product A,Home & Kitchen,20,1280,C631,New
+2024-02-10,Product C,Home & Kitchen,20,1460,C802,New
+2024-02-15,Product D,Beauty,1,16,C110,Returning
+2024-01-20,Product A,Electronics,14,1302,C987,New
+2024-03-19,Product A,Electronics,14,1162,C940,Returning
+2024-03-04,Product B,Clothing,18,342,C998,Returning
+2024-02-06,Product A,Electronics,12,1032,C252,New
+2024-03-31,Product D,Beauty,18,1404,C581,Returning
+2024-01-23,Product A,Beauty,14,210,C208,VIP
+2024-02-13,Product C,Beauty,18,720,C846,VIP
+2024-02-17,Product A,Home & Kitchen,13,546,C909,New
+2024-02-24,Product B,Beauty,9,873,C945,VIP
+2024-02-02,Product A,Beauty,8,192,C984,VIP
+2024-03-21,Product C,Clothing,3,72,C133,Returning
+2024-02-05,Product A,Beauty,11,891,C481,Returning
+2024-02-09,Product B,Beauty,11,495,C983,Returning
+2024-03-29,Product C,Home & Kitchen,20,700,C317,VIP
+2024-03-25,Product C,Clothing,1,51,C601,New
+2024-03-09,Product C,Home & Kitchen,8,512,C189,New
+2024-02-19,Product A,Home & Kitchen,4,192,C502,New
+2024-02-18,Product D,Electronics,12,804,C897,New
+2024-02-27,Product A,Electronics,10,530,C723,Returning
+2024-01-01,Product A,Beauty,18,1458,C281,VIP
+2024-01-29,Product C,Clothing,18,1422,C975,Returning
+2024-02-16,Product D,Beauty,18,1638,C156,New
+2024-02-09,Product A,Clothing,15,555,C685,New
+2024-01-16,Product C,Home & Kitchen,20,1000,C659,New
+2024-02-16,Product C,Home & Kitchen,9,297,C735,Returning
+2024-02-29,Product C,Home & Kitchen,19,1729,C581,New
+2024-01-05,Product A,Clothing,12,1044,C698,VIP
+2024-02-17,Product D,Electronics,19,893,C651,VIP
+2024-02-10,Product A,Home & Kitchen,18,1458,C351,Returning
+2024-02-02,Product D,Beauty,1,90,C893,VIP
+2024-03-26,Product B,Clothing,17,391,C258,New
+2024-02-08,Product C,Electronics,13,312,C961,New
+2024-02-09,Product A,Home & Kitchen,13,1066,C844,New
+2024-02-23,Product A,Electronics,5,485,C511,Returning
+2024-03-30,Product D,Electronics,2,130,C445,VIP
+2024-02-25,Product C,Clothing,7,294,C933,VIP
+2024-03-01,Product D,Beauty,20,800,C269,Returning
+2024-02-03,Product A,Home & Kitchen,13,1118,C197,VIP
+2024-03-26,Product A,Electronics,10,230,C880,VIP
+2024-03-27,Product B,Electronics,9,819,C460,Returning
+2024-02-05,Product B,Clothing,6,288,C214,New
+2024-03-08,Product B,Home & Kitchen,2,152,C130,New
+2024-03-31,Product D,Electronics,17,595,C177,Returning
+2024-02-13,Product B,Home & Kitchen,15,795,C243,VIP
+2024-01-31,Product B,Home & Kitchen,15,975,C290,Returning
+2024-03-22,Product D,Beauty,18,918,C985,VIP
+2024-02-16,Product B,Beauty,18,1062,C249,VIP
+2024-03-11,Product D,Electronics,16,960,C200,New
+2024-01-18,Product B,Home & Kitchen,17,1156,C444,Returning
+2024-02-04,Product B,Clothing,17,969,C346,VIP
+2024-02-03,Product A,Beauty,12,612,C508,Returning
+2024-03-09,Product A,Beauty,5,210,C164,Returning
+2024-01-17,Product B,Electronics,2,70,C699,VIP
+2024-03-14,Product A,Beauty,14,322,C301,New
+2024-03-17,Product B,Electronics,8,272,C288,VIP
+2024-03-28,Product A,Clothing,15,465,C609,VIP
+2024-01-14,Product A,Electronics,14,700,C136,New
+2024-02-21,Product A,Home & Kitchen,9,162,C795,VIP
+2024-01-23,Product D,Electronics,17,901,C533,Returning
+2024-02-27,Product A,Clothing,10,510,C750,VIP
+2024-03-05,Product C,Home & Kitchen,10,600,C271,VIP
+2024-01-27,Product C,Clothing,11,165,C997,Returning
+2024-02-04,Product D,Clothing,15,435,C988,New
+2024-02-07,Product D,Beauty,14,980,C961,Returning
+2024-02-11,Product D,Home & Kitchen,7,98,C561,Returning
+2024-03-07,Product C,Beauty,2,168,C369,VIP
+2024-02-24,Product B,Home & Kitchen,8,568,C306,Returning
+2024-03-09,Product A,Electronics,3,117,C362,New
+2024-02-19,Product D,Beauty,4,348,C189,New
+2024-03-02,Product B,Electronics,18,432,C807,Returning
+2024-02-24,Product C,Home & Kitchen,7,455,C690,VIP
+2024-03-13,Product C,Beauty,12,576,C944,New
+2024-02-12,Product B,Beauty,2,70,C814,VIP
+2024-01-09,Product D,Beauty,17,391,C384,Returning
+2024-03-09,Product A,Beauty,4,384,C458,New
+2024-01-16,Product A,Clothing,18,234,C618,VIP
+2024-01-28,Product D,Clothing,3,144,C615,VIP
+2024-01-22,Product B,Clothing,1,74,C429,VIP
+2024-03-14,Product C,Home & Kitchen,8,224,C728,VIP
+2024-01-12,Product B,Beauty,7,679,C204,Returning
+2024-01-07,Product A,Electronics,7,140,C545,New
+2024-03-01,Product C,Electronics,3,285,C920,Returning
+2024-02-28,Product A,Beauty,20,800,C778,New
+2024-03-25,Product C,Home & Kitchen,7,252,C705,Returning
+2024-02-14,Product C,Home & Kitchen,16,1408,C350,Returning
+2024-03-28,Product A,Clothing,1,80,C428,New
+2024-03-10,Product D,Home & Kitchen,16,688,C580,Returning
+2024-01-11,Product B,Clothing,9,504,C830,New
+2024-03-29,Product C,Electronics,4,228,C311,New
+2024-02-27,Product C,Beauty,3,51,C571,New
+2024-01-31,Product C,Home & Kitchen,15,1140,C105,New
+2024-01-22,Product B,Clothing,2,90,C679,VIP
+2024-01-26,Product D,Clothing,14,574,C884,VIP
+2024-02-07,Product C,Clothing,20,1960,C424,New
+2024-02-13,Product C,Beauty,14,1092,C780,VIP
+2024-03-05,Product C,Electronics,6,498,C358,VIP
+2024-01-08,Product A,Clothing,20,1200,C541,New
+2024-03-31,Product B,Home & Kitchen,10,450,C186,New
+2024-01-08,Product A,Beauty,2,156,C464,VIP
+2024-02-19,Product D,Clothing,9,891,C828,Returning
+2024-02-08,Product B,Beauty,4,52,C976,Returning
+2024-03-09,Product A,Electronics,1,58,C440,New
+2024-01-12,Product B,Electronics,17,1139,C938,VIP
+2024-02-19,Product D,Clothing,6,198,C209,Returning
+2024-02-28,Product B,Beauty,9,900,C325,New
+2024-01-12,Product C,Clothing,2,154,C363,New
+2024-01-29,Product D,Clothing,2,118,C171,VIP
+2024-01-08,Product D,Clothing,7,112,C971,New
+2024-03-20,Product D,Clothing,3,300,C300,VIP
+2024-01-01,Product C,Clothing,12,336,C180,New
+2024-03-13,Product D,Beauty,11,440,C946,Returning
+2024-02-23,Product B,Clothing,6,318,C300,New
+2024-02-08,Product A,Clothing,6,126,C187,Returning
+2024-02-15,Product D,Clothing,8,752,C154,New
+2024-02-14,Product D,Clothing,19,1805,C846,Returning
+2024-01-08,Product D,Beauty,3,300,C753,Returning
+2024-02-18,Product D,Clothing,8,496,C408,Returning
+2024-01-01,Product D,Electronics,5,130,C171,Returning
+2024-03-31,Product A,Clothing,18,1170,C607,VIP
+2024-01-30,Product D,Beauty,8,240,C741,New
+2024-01-30,Product A,Beauty,19,741,C936,New
+2024-03-20,Product C,Clothing,8,664,C890,New
+2024-01-19,Product C,Beauty,9,198,C736,VIP
+2024-03-22,Product C,Electronics,3,99,C217,Returning
+2024-01-24,Product B,Clothing,9,225,C223,Returning
+2024-01-12,Product A,Home & Kitchen,19,1539,C447,Returning
+2024-01-01,Product D,Beauty,5,300,C565,Returning
+2024-03-26,Product A,Home & Kitchen,8,792,C580,VIP
+2024-01-14,Product D,Home & Kitchen,18,1116,C881,Returning
+2024-01-22,Product A,Home & Kitchen,5,260,C100,VIP
+2024-03-16,Product A,Home & Kitchen,11,693,C352,VIP
+2024-01-20,Product C,Beauty,18,864,C389,Returning
+2024-02-06,Product B,Electronics,13,429,C607,New
+2024-01-12,Product B,Electronics,10,400,C539,VIP
+2024-01-05,Product B,Clothing,2,136,C932,New
+2024-02-11,Product C,Electronics,7,224,C191,New
+2024-02-04,Product D,Beauty,7,294,C278,New
+2024-03-19,Product D,Electronics,14,1358,C305,New
+2024-01-11,Product B,Electronics,4,248,C685,VIP
+2024-01-12,Product A,Beauty,4,248,C903,VIP
+2024-01-10,Product B,Home & Kitchen,19,1862,C699,Returning
+2024-02-26,Product D,Beauty,11,726,C539,Returning
+2024-03-02,Product B,Clothing,5,345,C491,Returning
+2024-01-18,Product D,Home & Kitchen,2,154,C917,New
+2024-01-09,Product C,Beauty,7,679,C256,New
+2024-01-09,Product C,Home & Kitchen,11,473,C584,New
+2024-01-02,Product B,Electronics,19,836,C800,VIP
+2024-02-06,Product A,Electronics,14,392,C901,VIP
+2024-03-30,Product D,Clothing,20,1940,C455,Returning
+2024-01-15,Product A,Clothing,18,234,C267,Returning
+2024-02-23,Product C,Beauty,9,846,C901,VIP
+2024-02-05,Product C,Beauty,2,32,C829,New
+2024-03-10,Product C,Home & Kitchen,10,860,C112,Returning
+2024-02-18,Product A,Clothing,8,104,C735,New
+2024-02-11,Product D,Home & Kitchen,17,1496,C186,New
+2024-01-31,Product C,Electronics,7,462,C277,Returning
+2024-03-24,Product D,Clothing,15,900,C869,New
+2024-02-15,Product C,Electronics,11,572,C691,Returning
+2024-01-07,Product D,Clothing,10,860,C180,New
+2024-03-09,Product D,Electronics,16,480,C238,VIP
+2024-03-16,Product D,Electronics,7,567,C660,VIP
+2024-01-03,Product C,Clothing,11,671,C874,Returning
+2024-01-02,Product D,Clothing,19,1330,C677,Returning
+2024-01-06,Product B,Electronics,11,187,C773,New
+2024-01-15,Product A,Electronics,18,1656,C794,VIP
+2024-03-18,Product A,Electronics,10,750,C215,New
+2024-03-04,Product D,Home & Kitchen,12,168,C753,New
+2024-01-09,Product A,Beauty,11,385,C592,Returning
+2024-02-13,Product A,Electronics,10,190,C977,Returning
+2024-01-09,Product C,Home & Kitchen,16,304,C751,New
+2024-02-08,Product A,Clothing,10,720,C408,New
+2024-02-14,Product C,Beauty,3,159,C809,VIP
+2024-03-06,Product A,Beauty,19,665,C125,New
+2024-03-26,Product C,Clothing,11,627,C861,Returning
+2024-01-21,Product A,Beauty,6,468,C575,VIP
+2024-02-02,Product C,Electronics,5,270,C689,New
+2024-03-28,Product D,Home & Kitchen,12,756,C127,VIP
+2024-03-16,Product B,Clothing,12,1128,C588,Returning
+2024-01-16,Product D,Clothing,6,552,C241,VIP
+2024-01-26,Product A,Electronics,5,145,C587,New
+2024-02-13,Product A,Electronics,17,1683,C689,VIP
+2024-01-05,Product D,Clothing,17,782,C389,New
+2024-02-12,Product B,Clothing,19,1501,C481,Returning
+2024-02-09,Product C,Home & Kitchen,18,828,C897,New
+2024-03-25,Product C,Home & Kitchen,10,510,C980,Returning
+2024-02-10,Product D,Clothing,17,1105,C135,Returning
+2024-02-04,Product C,Beauty,17,255,C233,Returning
+2024-03-20,Product B,Home & Kitchen,3,60,C722,Returning
+2024-01-19,Product D,Clothing,20,960,C671,New
+2024-03-04,Product C,Home & Kitchen,19,1900,C763,VIP
+2024-03-19,Product C,Home & Kitchen,7,651,C297,New
+2024-01-25,Product B,Home & Kitchen,20,1240,C234,Returning
+2024-02-19,Product D,Clothing,10,910,C358,New
+2024-03-01,Product D,Home & Kitchen,14,588,C282,New
+2024-02-16,Product D,Beauty,19,722,C173,New
+2024-02-10,Product C,Home & Kitchen,20,1220,C440,Returning
+2024-02-13,Product D,Beauty,12,732,C553,New
+2024-03-06,Product A,Beauty,20,1160,C802,New
+2024-03-07,Product B,Electronics,18,504,C563,Returning
+2024-03-27,Product D,Electronics,7,259,C197,VIP
+2024-03-31,Product D,Clothing,14,210,C549,New
+2024-01-18,Product C,Electronics,5,375,C439,New
+2024-02-26,Product C,Electronics,3,186,C469,VIP
+2024-02-05,Product C,Clothing,6,192,C848,Returning
+2024-01-07,Product C,Clothing,8,680,C984,Returning
+2024-02-16,Product A,Beauty,5,390,C550,Returning
+2024-03-27,Product C,Home & Kitchen,20,1300,C550,VIP
+2024-01-24,Product A,Home & Kitchen,18,342,C538,Returning
+2024-02-26,Product A,Clothing,14,602,C458,New
+2024-03-25,Product D,Electronics,5,455,C391,Returning
+2024-02-05,Product B,Clothing,10,250,C391,New
+2024-01-06,Product D,Electronics,7,392,C860,Returning
